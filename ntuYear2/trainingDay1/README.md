@@ -3,6 +3,7 @@ Training Day 1
 vijos
 ------
     *p1103 校门外的树 -> A basic training
+    *p1354 Hanoi双塔问题 -> ^_^
 
 poj
 ----
