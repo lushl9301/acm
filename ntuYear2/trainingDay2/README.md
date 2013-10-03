@@ -1,4 +1,4 @@
-Training Day 1
+Training Day 2
 ==============
 poj
 ----
